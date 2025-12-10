@@ -1,9 +1,8 @@
-
-<div align="center left">
-
 <img src="https://raw.githubusercontent.com/cheshytech/cheshytech/main/images/avatar.png" width="180" alt="Nezuko tech avatar" style="border-radius: 50%;"/>
 
+<div align="center">
 # ✨ CheshyTech ✨  
+</div>
 ### DevOps • Automation • Cloud • Cute Tech Vibes
 
 💻 Welcome to my little corner on GitHub.  
@@ -17,8 +16,7 @@ Here I mix **infrastructure, automation, and technology** with a cute touch that
 - 🚀 Exploring *CI/CD, Observability, Containers, and Cloud*  
 - ✍️ I run a technical blog on GitHub Pages:  
   👉 **https://cheshytech.github.io/**
-- 🧪 Currently working on **two private projects**, aimed to be published and monetized when they’re ready  
-- 💌 Contact: **cheshytech.contact@gmail.com**  
+- 🧪 Currently working on **two private projects**, aimed to be published and monetized when they’re ready   
 - 💡 Fan of continuous learning and cute things… like tech-style Nezuko 🐱‍💻💕
 
 ---
@@ -49,4 +47,4 @@ Here I mix **infrastructure, automation, and technology** with a cute touch that
 If you like my work, feel free to follow me!  
 I’m always building something new 🚀💖
 
-</div>
+💌 Contact: **cheshytech.contact@gmail.com** 
