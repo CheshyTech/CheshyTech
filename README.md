@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center left">
 
 <img src="https://raw.githubusercontent.com/cheshytech/cheshytech/main/images/avatar.png" width="180" alt="Nezuko tech avatar" style="border-radius: 50%;"/>
 
