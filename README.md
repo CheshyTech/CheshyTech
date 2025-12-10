@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/cheshytech/cheshytech/main/images/avatar.png" alt="Nezuko tech avatar" style="max-width: 100%; width: 100%; height: auto; border-radius: 20px;"/>
-
 <div align="center">
   
 # ✨ CheshyTech ✨  
