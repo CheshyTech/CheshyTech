@@ -1,4 +1,4 @@
-<img src="YOUR_IMAGE_URL_HERE" alt="Nezuko tech avatar" style="max-width: 100%; width: 100%; height: auto; border-radius: 20px;"/>
+<img src="https://raw.githubusercontent.com/cheshytech/cheshytech/main/images/avatar.png" alt="Nezuko tech avatar" style="max-width: 100%; width: 100%; height: auto; border-radius: 20px;"/>
 
 <div align="center">
   
