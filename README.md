@@ -1,16 +1,52 @@
-## Hi there 👋
 
-<!--
-**CheshyTech/CheshyTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/cheshytech/cheshytech/main/images/avatar.png" width="180" alt="Nezuko tech avatar" style="border-radius: 50%;"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ✨ CheshyTech ✨  
+### DevOps • Automation • Cloud • Cute Tech Vibes
+
+💻 Welcome to my little corner on GitHub.  
+Here I mix **infrastructure, automation, and technology** with a cute touch that makes the journey more fun 💫
+
+---
+
+## 🌸 About Me
+
+- 🔧 **DevOps Engineer** & automation enthusiast  
+- 🚀 Exploring *CI/CD, Observability, Containers, and Cloud*  
+- ✍️ I run a technical blog on GitHub Pages:  
+  👉 **https://cheshytech.github.io/**
+- 🧪 Currently working on **two private projects**, aimed to be published and monetized when they’re ready  
+- 💌 Contact: **cheshytech.contact@gmail.com**  
+- 💡 Fan of continuous learning and cute things… like tech-style Nezuko 🐱‍💻💕
+
+---
+
+## 🛠️ Tech Stack
+
+**Infrastructure & Cloud**  
+`AWS` · `Terraform` · `Docker` · `Kubernetes`
+
+**CI/CD & Automation**  
+`GitHub Actions` · `GitLab CI` · `ArgoCD` · `Ansible`
+
+**Languages & More**  
+`Python` · `Bash` · `Markdown` · `YAML` · `Linux`
+
+---
+
+## 🌱 What I’m Building
+
+- Practical DevOps tools and solutions  
+- Clear, visual, and accessible technical documentation  
+- Personal projects that will go public once they reach the quality I’m aiming for ✨  
+
+---
+
+## ⭐ Thanks for stopping by!
+
+If you like my work, feel free to follow me!  
+I’m always building something new 🚀💖
+
+</div>
