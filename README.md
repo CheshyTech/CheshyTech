@@ -1,8 +1,11 @@
-<img src="https://raw.githubusercontent.com/cheshytech/cheshytech/main/images/avatar.png" width="180" alt="Nezuko tech avatar" style="border-radius: 50%;"/>
+<img src="YOUR_IMAGE_URL_HERE" alt="Nezuko tech avatar" style="max-width: 100%; width: 100%; height: auto; border-radius: 20px;"/>
 
 <div align="center">
+  
 # ✨ CheshyTech ✨  
+
 </div>
+
 ### DevOps • Automation • Cloud • Cute Tech Vibes
 
 💻 Welcome to my little corner on GitHub.  
