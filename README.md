@@ -4,7 +4,7 @@
 
 </div>
 
-### DevOps • Automation • Cloud • Cute Tech Vibes
+### DevOps • Automation • Cloud • Linux • Little apps, games and stuff
 
 💻 Welcome to my little corner on GitHub.  
 Here I mix **infrastructure, automation, and technology** with a cute touch that makes the journey more fun 💫
@@ -17,8 +17,7 @@ Here I mix **infrastructure, automation, and technology** with a cute touch that
 - 🚀 Exploring *CI/CD, Observability, Containers, and Cloud*  
 - ✍️ I run a technical blog on GitHub Pages:  
   👉 **https://cheshytech.github.io/**
-- 🧪 Currently working on **two private projects**, aimed to be published and monetized when they’re ready   
-- 💡 Fan of continuous learning and cute things… like tech-style Nezuko 🐱‍💻💕
+- 🧪 Currently working on **two private projects**, aimed to be published and monetized when they’re ready
 
 ---
 
@@ -32,6 +31,7 @@ Here I mix **infrastructure, automation, and technology** with a cute touch that
 
 **Languages & More**  
 `Python` · `Bash` · `Markdown` · `YAML` · `Linux`
+`Flutter` · `C++`
 
 ---
 
